@@ -1,5 +1,5 @@
 # todos
-> Demonstrates js-entity-repos with todos.
+> Demonstrates js-entity-repos with todos (based on TypeScript).
 
 [Checkout todo.stephanbail.com](https://todo.stephanbail.com).
 
